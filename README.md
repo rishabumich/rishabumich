@@ -42,8 +42,6 @@ Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=f
 Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishabumich&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishabumich&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabumich&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
