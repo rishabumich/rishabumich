@@ -1,4 +1,4 @@
-# 👨🏾‍💻 About Me:
+# Hey, I'm Rishab 👋🏾:
 I am a student at the University of Michigan studying Computer Science and minoring in Data Science. I am interested in 
 further exploring tech entrepreneurship, machine learning, full stack development, and cloud computing. Go blue! 
 
