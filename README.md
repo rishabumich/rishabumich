@@ -2,11 +2,7 @@
 I am a student at the University of Michigan studying Computer Science and minoring in Data Science. I am interested in 
 further exploring tech entrepreneurship, machine learning, full stack development, and cloud computing. Go blue! 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-gupta04/) 
-
-# 💻 Tech Stack:
+# Technologies 💻:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -41,7 +37,4 @@ Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=f
 ![Affinity 
 Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabumich&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
