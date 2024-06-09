@@ -2,7 +2,7 @@
 I am a student at the University of Michigan studying Computer Science and minoring in Data Science. I am interested in 
 further exploring tech entrepreneurship, machine learning, full stack development, and cloud computing. Go blue! 
 
-# Technologies 💻
+# <Technologies />
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
